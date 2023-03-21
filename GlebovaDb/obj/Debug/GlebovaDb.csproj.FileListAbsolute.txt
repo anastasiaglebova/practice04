@@ -1,0 +1,8 @@
+C:\Users\1\source\repos\GlebovaDb\GlebovaDb\obj\Debug\GlebovaDb.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\GlebovaDb\GlebovaDb\obj\Debug\GlebovaDb.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\source\repos\GlebovaDb\GlebovaDb\obj\Debug\View\MainWindow.g.cs
+C:\Users\1\source\repos\GlebovaDb\GlebovaDb\obj\Debug\App.g.cs
+C:\Users\1\source\repos\GlebovaDb\GlebovaDb\obj\Debug\GlebovaDb_MarkupCompile.cache
+C:\Users\1\source\repos\GlebovaDb\GlebovaDb\obj\Debug\GlebovaDb_MarkupCompile.lref
+C:\Users\1\source\repos\GlebovaDb\GlebovaDb\obj\Debug\GlebovaDb_Content.g.cs
+C:\Users\1\source\repos\GlebovaDb\GlebovaDb\obj\Debug\View\ApplicationWindow.g.cs
